@@ -10,12 +10,21 @@ body {
   font-family: Arial, sans-serif;
 }
 
+
 /* Style the header section */
 header {
   background-color: #50b3a2;
   color: white;
   text-align: center;
   padding: 1em 0;
+}
+
+img {
+
+  width: 400px,
+
+  height: 300px
+
 }
 
 /* Style the navigation menu */
